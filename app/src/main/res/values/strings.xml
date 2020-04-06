@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">لعبة خمن</string>
+    <string name="false_text">خطأ</string>
+    <string name="true_text">صحيح</string>
+    <string name="back_button">الرجوع</string>
+    <string name="share_question_text">نشر السؤال</string>
+    <string name="share_title_hint">أدخل عنوان المشاركة</string>
+    <string name="share_question_with_friends">شارك السؤال مع الاصدقاء</string>
+    <string name="the_right_answer_is">الاجابة الصحيحة هي</string>
+    <string name="change_lang_text">تغيير اللغة</string>
+    <string name="change_question_text">تغيير السؤال</string>
+    <string name="question">السؤال</string>
+    <string name="Title">لعبة خمن</string>
+    <string-array name="questions">
+       <item>عدد الدول العربية في قارة أفريقيا 10؟</item>
+        <item>سورة الكافرون هي السورة التي تعدل ربع القرآن الكريم؟</item>
+        <item>حجر الألماس هو أقوى أنواع الحجارة؟</item>
+        <item>يلقب صغير الدب ب دب العسل؟</item>
+        <item>صوت الضفدع يسمى نقيق؟</item>
+        <item>أول من كتب بسم الله الرحمن الرحيم هو نبي الله داود-عليه السلام؟</item>
+    </string-array>
+    <string-array name="answers_details">
+        <item>عدد الدول العربية في قارة أفريقيا تسعة دول</item>
+        <item>سورة الكافرون تعدل ربع القرآن الكريم</item>
+        <item>حجر الألماس هو أقوى أنواع الحجارة</item>
+        <item>يلقب صغير الدب ب ديسم</item>
+        <item>صوت الضفدع يسمى نقيق</item>
+        <item>أول من كتب بسم الله الرحمن الرحيم هو نبي الله سليمان بن داود- عليهما السلام</item>
+
+    </string-array>
+    <array name="Languages">
+        <item>العربية</item>
+        <item>English</item>
+        <item>Francais</item>
+    </array>
+</resources>

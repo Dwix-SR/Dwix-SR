@@ -1,0 +1,31 @@
+<resources>
+<string name="app_name">Devinez la réponse</string>
+<string name="false_text">Faux</string>
+<string name="true_text">Vrai</string>
+<string name="share_question_text">Partagez la question</string>
+<string name="change_question_text">Changer la question</string>
+<string name="back_button">Retour</string>
+<string name="share_title_hint">Entrez un titre pour ce sujet</string>
+<string name="change_lang_text">Changer la langue</string>
+<string name="question">Question</string>
+    <string name="Title">Gusse the answer</string>
+<string name="the_right_answer_is">la bonne réponse est</string>
+<string name="share_question_with_friends">Partagez la question avec des amis</string>
+    <string-array name="questions">
+        <item>La monnaie officielle du Koweït est le riyal koweïtien? </item>
+        <item>Le Toubkal est le plus haut sommet du monde arabe?</item>
+        <item>L\'Algérie est le plus grand pays arabe en termes de superficie? </item>
+        <item>Casablanca est la capitale du Maroc? </item>
+        <item>Kaboul est la capitale de l\'Afghanistan?</item>
+        <item>Le plus gros animal invertébré est la méduse? </item>
+    </string-array>
+    <string-array name="answers_details">
+        <item>عدد الدول العربية في قارة أفريقيا تسعة دول</item>
+        <item>سورة الكافرون تعدل ربع القرآن الكريم</item>
+        <item>حجر الألماس هو أقوى أنواع الحجارة</item>
+        <item>يلقب صغير الدب ب ديسم</item>
+        <item>صوت الضفدع يسمى نقيق</item>
+        <item>أول من كتب بسم الله الرحمن الرحيم هو نبي الله سليمان بن داود- عليهما السلام</item>
+
+    </string-array>
+</resources>

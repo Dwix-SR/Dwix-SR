@@ -1,0 +1,32 @@
+<resources>
+<string name="app_name">Guess the answer</string>
+<string name="false_text">False</string>
+<string name="true_text">True</string>
+<string name="share_question_text">Share the question</string>
+<string name="change_question_text">Change the question</string>
+<string name="back_button">Return</string>
+<string name="share_title_hint">Enter a title for this subject</string>
+<string name="change_lang_text">Change Language</string>
+<string name="question">Question</string>
+    <string name="Title">Gusse the answer</string>
+<string name="the_right_answer_is">The right answer is</string>
+<string name="share_question_with_friends">Share the question with friends</string>
+        <string-array name="questions">
+            <item>The official currency of Kuwait is the Kuwaiti riyal?</item>
+            <item>Toubkal is the highest peak in the Arab world?</item>
+            <item>Algeria is the largest Arab country in terms of area? </item>
+            <item>Casablanca is the capital of Morocco?</item>
+            <item>Kabul is the capital of Afghanistan? </item>
+            <item>The biggest invertebrate animal is the jellyfish? </item>
+        </string-array>
+        <string-array name="answers_details">
+            <item>عدد الدول العربية في قارة أفريقيا تسعة دول</item>
+            <item>سورة الكافرون تعدل ربع القرآن الكريم</item>
+            <item>حجر الألماس هو أقوى أنواع الحجارة</item>
+            <item>يلقب صغير الدب ب ديسم</item>
+            <item>صوت الضفدع يسمى نقيق</item>
+            <item>أول من كتب بسم الله الرحمن الرحيم هو نبي الله سليمان بن داود- عليهما السلام</item>
+
+        </string-array>
+
+</resources>
